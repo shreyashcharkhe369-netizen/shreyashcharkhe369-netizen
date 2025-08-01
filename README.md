@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=250&section=header&text=Shreyash%20Charkhe&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2024,203A43,2C5364&height=250&section=header&text=Shreyash%20Charkhe&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header" />
 </p>
 
 <!-- Intro -->
