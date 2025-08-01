@@ -51,3 +51,34 @@
 
 <!-- Placeholder -->
 
+
+
+---
+
+<!-- Connect -->
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreyashcharkhe369" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shreyashcharkhe369@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/shreyashcharkhe369-netizen" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Quote -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Code.+Learn.+Build.+Repeat.;Consistency+>+Perfection.;Make+it+look+like+magic.&font=Fira+Code&center=true&width=380&height=50&color=58A6FF&vCenter=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=120&section=footer" />
+</p>
+
+
